@@ -1,0 +1,10 @@
+com\simple\rest\api\validator\impl\RequestValidatorImlp.class
+com\simple\rest\api\validator\RequestValidator.class
+com\simple\rest\api\model\PlayerResponse.class
+com\simple\rest\api\Application.class
+com\simple\rest\api\controller\GameController.class
+com\simple\rest\api\model\PlayerRequest.class
+com\simple\rest\api\constants\ErrorMessage.class
+com\simple\rest\api\service\GameService.class
+com\simple\rest\api\exception\ParameterNotFoundException.class
+com\simple\rest\api\servicetranslator\GameServiceImpl.class

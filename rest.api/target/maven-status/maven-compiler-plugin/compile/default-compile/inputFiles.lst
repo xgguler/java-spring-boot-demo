@@ -1,0 +1,10 @@
+C:\Users\g.guler\Demo\rest.api\src\main\java\com\simple\rest\api\model\PlayerResponse.java
+C:\Users\g.guler\Demo\rest.api\src\main\java\com\simple\rest\api\model\PlayerRequest.java
+C:\Users\g.guler\Demo\rest.api\src\main\java\com\simple\rest\api\servicetranslator\GameServiceImpl.java
+C:\Users\g.guler\Demo\rest.api\src\main\java\com\simple\rest\api\validator\RequestValidator.java
+C:\Users\g.guler\Demo\rest.api\src\main\java\com\simple\rest\api\constants\ErrorMessage.java
+C:\Users\g.guler\Demo\rest.api\src\main\java\com\simple\rest\api\exception\ParameterNotFoundException.java
+C:\Users\g.guler\Demo\rest.api\src\main\java\com\simple\rest\api\validator\impl\RequestValidatorImlp.java
+C:\Users\g.guler\Demo\rest.api\src\main\java\com\simple\rest\api\Application.java
+C:\Users\g.guler\Demo\rest.api\src\main\java\com\simple\rest\api\service\GameService.java
+C:\Users\g.guler\Demo\rest.api\src\main\java\com\simple\rest\api\controller\GameController.java

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.simple.rest.api.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.311 s - in com.simple.rest.api.ApplicationTests
